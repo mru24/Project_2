@@ -1,2 +1,2 @@
-# PORTFOLIO
-Here is my first Github Repository and my portfolio web page.
+# PORTFOLIO Project 2
+HTML, CSS, SASS, JQuery, Gulp Project
